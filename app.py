@@ -1,5 +1,4 @@
 import streamlit as st
-import openai
 
 # Set up Streamlit app
 st.set_page_config(page_title="Unit Converter", layout="wide")
